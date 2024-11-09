@@ -26,17 +26,17 @@ ChatGPT Interaction Documentation
 
 1. Understanding the Project Requirements
 
-   - I asked ChatGPT for help with building a 'Book Finder application' in React with Redux and TypeScript.
+   - I asked ChatGPT for help with component structure for building a 'Book Finder application' in React with Redux and TypeScript.
    - ChatGPT provided a clear plan for setting up the app, explaining how to structure files and manage state with Redux.
 
 2. Setting Up Redux with TypeScript
 
-   - I needed help creating 'actions and reducers' in TypeScript, which requires defining types for actions and state.
+   - I needed brief explanation for creating 'actions and reducers' in TypeScript, which requires defining types for actions and state.
    - ChatGPT walked me through creating `actions_books.ts` for actions like fetching books and `reducers_books.ts` to handle these actions. It also explained how to define types for state and actions to avoid errors.
 
 3. Creating Components in TypeScript
 
-   - For components like `search_books` and `list_books`, ChatGPT helped me define the types for state and props.
+   -  Chatgpt give a detailed explanation with examples how to create functional and class components. I implemented with functional components.
 
 4. Adding Global Styles with CSS
    - I wanted to use a single CSS file (`App.css`) for styles across all components.
